@@ -53,5 +53,7 @@ In this document you can see the prototype of product operations for both page A
 # Project Screenshorts
 ## Open this below pdf file to view the project screenshorts.
 
-[Screenshots of Sporty Shoes Project.pdf](https://github.com/RAHULSINGH8181/Sporty-Shoes/files/10960507/Screenshots.of.Sporty.Shoes.Project.pdf)
+[Screenshots of Sporty Shoes Project.pdf](https://github.com/RAHULSINGH8181/Sporty-Shoes/files/10986534/Screenshots.of.Sporty.Shoes.Project.pdf)
+
+
 

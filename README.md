@@ -50,6 +50,10 @@ In this document you can see the prototype of product operations for both page A
 
 6. In the Manage Purchase(Purchase Report) section Admin can search according to Date of purchase or Category of shoes.
 
+# Running The Project
+
+Start the server at http://localhost:8090/
+
 # Project Screenshorts
 ## Open this below pdf file to view the project screenshorts.
 
